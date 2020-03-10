@@ -25,3 +25,7 @@
 <div align="center"><img src="img/plot_Umbria.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Valle_d'Aosta.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Veneto.png?raw=true" width="80%"/></div>
+
+<hr>
+
+<div>Fonte: dati della Protezione Civile (<a href='https://github.com/pcm-dpc/COVID-19' target='blank_'>repository GitHub</a>) - <a href='https://creativecommons.org/licenses/by/4.0/deed.en' target='blank_'>Licenza CC BY 4.0</a></div>
