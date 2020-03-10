@@ -1,11 +1,9 @@
 <div align="center"><h1>L'epidemia di coronavirus in Italia</h1></div>
-<div align="center">Grafici generali</div>
 <hr>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Regions.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Provinces.png?raw=true" width="80%"/></div>
 <hr>
-<div align="center">Andamento nelle singole regioni</div>
 <div align="center"><img src="img/plot_Abruzzo.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Basilicata.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Bolzano.png?raw=true" width="80%"/></div>
