@@ -1,4 +1,5 @@
 <div align="center"><h1>L'epidemia di coronavirus in Italia</h1></div>
+<div>I grafici seguenti descrivono l'andamento dell'epidemia di Covid-19 in Italia. Nel secondo e nel terzo grafico, le regioni e le province con meno del 5% dei casi rispetto al totale sono state accorpate sotto la categoria "Altre", per una maggiore leggibilità. I dati di riferimento sono quelli della Protezione Civile.</div>
 <hr>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="80%"/></div>
 <div align="center"><img src="img/plot_Regions.png?raw=true" width="80%"/></div>
