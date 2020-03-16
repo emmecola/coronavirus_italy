@@ -3,11 +3,9 @@
 <hr>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="100%"/></div>
 <hr>
-<div><b>Distribuzione geografica</b> - Nei due grafici seguenti, regioni e province con meno del 5% dei casi rispetto al totale sono state accorpate sotto la categoria "Altre", per una maggiore leggibilità.</div> 
 <div align="center"><img src="img/plot_Regions.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Provinces.png?raw=true" width="100%"/></div>
 <hr>
-<div><b>Casi confermati in ciascuna regione</b></div>
 <div align="center"><img src="img/plot_Abruzzo.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Basilicata.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_P.A._Bolzano.png?raw=true" width="100%"/></div>
