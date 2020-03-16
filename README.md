@@ -2,6 +2,7 @@
 <div>I grafici seguenti descrivono l'andamento dell'epidemia di COVID-19 in Italia. L'Italia, seguendo le raccomandazioni dell'OMS, esegue il test molecolare solo sui soggetti sintomatici. Pertanto, il numero di individui con infezione da SARS-COV-2 nella popolazione italiana è sicuramente più elevato rispetto a quanto riportato, e di conseguenza il vero tasso di letalità del virus è sicuramente più basso rispetto a quello che appare da questi grafici. I dati di riferimento sono quelli della Protezione Civile.</div>
 <hr>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="100%"/></div>
+<hr>
 <div><b>Distribuzione geografica</b> - Nei due grafici seguenti, regioni e province con meno del 5% dei casi rispetto al totale sono state accorpate sotto la categoria "Altre", per una maggiore leggibilità.</div> 
 <div align="center"><img src="img/plot_Regions.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/plot_Provinces.png?raw=true" width="100%"/></div>
