@@ -1,7 +1,7 @@
 <div align="center"><h1>L'epidemia di coronavirus in Italia</h1></div>
 <div>I grafici seguenti descrivono l'andamento dell'epidemia di COVID-19 in Italia. I dati di riferimento sono quelli rilasciati quotidianamente dalla Protezione Civile, che considera come casi confermati i soggetti su cui il test molecolare ha dato esito positivo. Poiché l'infezione non sempre produce sintomi, il numero reale di casi in Italia è sicuramente superiore a quanto riportato. Pertanto, il tasso di letalità effettivo del virus è certamente più basso rispetto a quanto appare da questi grafici.</div>
 <hr>
-<div><i><b>Agg. 16/03/20</b>: I dati della Puglia e della Provincia Autonoma di Trento non sono pervenuti.</i></div>
+<div><i><b>Agg. 17/03/20</b>: I dati della provincia di Rimini non sono aggiornati.</i></div>
 <hr>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="100%"/></div>
 <hr>
