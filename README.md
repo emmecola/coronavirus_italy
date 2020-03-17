@@ -1,5 +1,5 @@
 <div align="center"><h1>L'epidemia di coronavirus in Italia</h1></div>
-<div>I grafici seguenti descrivono l'andamento dell'epidemia di COVID-19 in Italia. L'Italia esegue il test molecolare solo sui soggetti sintomatici. Pertanto, il numero di individui con infezione da SARS-COV-2 nella popolazione italiana è sicuramente più elevato rispetto a quanto riportato, e di conseguenza il vero tasso di letalità del virus è sicuramente più basso rispetto a quello che appare da questi grafici. I dati di riferimento sono quelli della Protezione Civile.</div>
+<div>I grafici seguenti descrivono l'andamento dell'epidemia di COVID-19 in Italia. I dati di riferimento sono quelli rilasciati quotidianamente dalla Protezione Civile, che considera come casi confermati i soggetti su cui il test molecolare ha dato esito positivo. Poiché in molti casi l'infezione non produce sintomi, il numero reale di casi in Italia è sicuramente superiore a quanto riportato. Pertanto, il tasso di letalità effettivo del virus è certamente più basso rispetto a quanto appare da questi grafici.</div>
 <hr>
 <div align="center"><img src="img/plot_Italy.png?raw=true" width="100%"/></div>
 <hr>
