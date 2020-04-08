@@ -10,26 +10,67 @@
 <div align="center"><img src="img/trend_Provinces.png?raw=true" width="100%"/></div>
 <hr>
 <div align="center"><img src="img/plot_Abruzzo.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Abruzzo.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Basilicata.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Basilicata.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_P.A._Bolzano.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_P.A._Bolzano.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Calabria.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Calabria.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Campania.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Campania.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Emilia-Romagna.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Emilia-Romagna.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Friuli_Venezia_Giulia.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Friuli_Venezia_Giulia.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Lazio.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Lazio.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Liguria.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Liguria.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Lombardia.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Lombardia.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Marche.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Marche.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Molise.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Molise.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Piemonte.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Piemonte.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Puglia.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Puglia.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Sardegna.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Sardegna.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Sicilia.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Sicilia.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Toscana.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Toscana.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_P.A._Trento.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_P.A._Trento.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Umbria.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Umbria.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Valle_d'Aosta.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Valle_d'Aosta.png?raw=true" width="100%"/></div>
+<hr>
 <div align="center"><img src="img/plot_Veneto.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mediamobile_Veneto.png?raw=true" width="100%"/></div>
 
 <hr>
 
