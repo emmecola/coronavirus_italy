@@ -8,9 +8,6 @@
 <div align="center"><img src="img/plot_Regions.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/trend_Regions.png?raw=true" width="100%"/></div>
 <hr>
-<div align="center"><img src="img/plot_Provinces.png?raw=true" width="100%"/></div>
-<div align="center"><img src="img/trend_Provinces.png?raw=true" width="100%"/></div>
-<hr>
 <div align="center"><img src="img/plot_Abruzzo.png?raw=true" width="100%"/></div>
 <div align="center"><img src="img/mediamobile_Abruzzo.png?raw=true" width="100%"/></div>
 <hr>
